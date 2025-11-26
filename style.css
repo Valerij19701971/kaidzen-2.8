@@ -7,7 +7,7 @@
 }
 
 :root {
-   --page-bg: #ffffff;
+   --page-bg: rgba(255, 238, 255, 0.414);;
    --card-bg: rgba(253, 202, 212, 0.753);
    --card-bg: rgba(202, 232, 253, 0.753);
    --label-bg: rgba(252, 211, 255, 0.5);
